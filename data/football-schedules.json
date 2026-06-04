@@ -1,1 +1,1 @@
-[]
+[{"team":{"@odata.type":"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference","Id":1,"Value":"Sprigfield Yellow Jackets Football"},"gameDate":"2026-06-04T00:00:00Z","opponent":"Clarksville","homeAway":{"@odata.type":"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference","Id":0,"Value":"Home"},"eventType":{"@odata.type":"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference","Id":0,"Value":"District"},"location":"Springfield High school","street":"5240 Highway 76 E","city":"Springfield","state":"TN"}]
