@@ -1,1 +1,1 @@
-
+[{"gameDate":"2026-07-09T23:38:00Z","opponentName":"Murfreesboro","homeAway":{"@odata.type":"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference","Id":0,"Value":"Home"},"location":"1015 Josephine St. Springfield, TN 37172\n","gameType":{"@odata.type":"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference","Id":1,"Value":"Regular Season"},"springfieldScore":15.0,"opponentScore":20.0,"winLose":"Lose"}]
