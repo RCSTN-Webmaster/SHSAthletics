@@ -1,1 +1,1 @@
-
+[{"gameDate":"2026-07-08T21:02:00Z","opponentName":"Clarksville","homeAway":{"@odata.type":"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference","Id":0,"Value":"Home"},"location":"800 ms Couts blvd. Springfield tn 37172","gameType":{"@odata.type":"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference","Id":1,"Value":"Regular Season"},"springfieldScore":4.0,"opponentScore":1.0,"winLose":"Win"}]
