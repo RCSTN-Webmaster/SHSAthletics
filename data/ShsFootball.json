@@ -1,1 +1,1 @@
-
+[{"gameDate":"2026-07-03T00:00:00Z","opponentName":"Hendersonville","homeAway":{"@odata.type":"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference","Id":1,"Value":"Away"},"location":"200 L. Block St. Hendersonville, TN 37172","gameType":{"@odata.type":"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference","Id":3,"Value":"Regional Tournament"},"springfieldScore":100.0,"opponentScore":20.0,"winLose":"Win"}]
