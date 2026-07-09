@@ -1,35 +1,49 @@
 [
   {
-    "message": "Shout-out to Emma for giving her best effort at practice this week!"
+    "message": "Shout-out to Emma for giving her best effort at practice this week!",
+    "author": "Coach Smith"
   },
   {
-    "message": "Congratulations to Jacob for showing outstanding sportsmanship on the field!"
+    "message": "Congratulations to Jacob for showing outstanding sportsmanship on the field!",
+    "author": "Coach Johnson"
   },
   {
-    "message": "Way to go, Lady Cougars, on another great team victory!"
+    "message": "Way to go, Lady Cougars, on another great team victory!",
+    "author": "Mom"
   },
   {
-    "message": "Good luck to all RCSTN teams competing this weekend!"
+    "message": "Good luck to all RCSTN teams competing this weekend!",
+    "author": "Coach Williams"
   },
   {
-    "message": "Congratulations to Ava for setting a new personal best in the 800-meter run!"
+    "message": "Congratulations to Ava for setting a new personal best in the 800-meter run!",
+    "author": "Coach Thompson"
   },
   {
-    "message": "Best wishes to our baseball team as they compete in tournament play!"
+    "message": "Best wishes to our baseball team as they compete in tournament play!",
+    "author": "Coach Davis"
   },
   {
-    "message": "Congratulations to the volleyball team on earning Academic All-State honors!"
+    "message": "Congratulations to the volleyball team on earning Academic All-State honors!",
+    "author": "Coach Wilson"
   },
   {
-    "message": "Shout-out to Mason for always encouraging his teammates and leading by example!"
+    "message": "Shout-out to Mason for always encouraging his teammates and leading by example!",
+    "author": "Coach Brown"
   },
   {
-    "message": "Thank you to our amazing coaches for investing in our student-athletes every day."
+    "message": "Thank you to our amazing coaches for investing in our student-athletes every day.",
+    "author": "Principal Green"
   },
   {
-    "message": "Let's pack the stands Friday night and support our student-athletes!"
+    "message": "Congratulations to Sophia for signing to continue her athletic career at the collegiate level!",
+    "author": "Coach Anderson"
   },
   {
-    "message": "Congratulations to the cross country team for an outstanding finish at the invitational!"
+    "message": "Let's pack the stands Friday night and support our student-athletes!",
+    "author": "Coach Martinez"
+  {
+    "message": "Congratulations to the cross country team for an outstanding finish at the invitational!",
+    "author": "Coach Lee"
   }
 ]
