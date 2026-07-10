@@ -1,1 +1,182 @@
-[{"gameDate":"2026-07-18T01:28:00Z","opponentName":"Hendersonville","homeAway":{"@odata.type":"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference","Id":0,"Value":"Home"},"location":"1015 Josephine St. ","gameType":{"@odata.type":"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference","Id":1,"Value":"Regular Season"},"springfieldScore":null,"opponentScore":null,"winLose":"TBD"}]
+[
+  {
+    "gameDate": "2026-06-20T00:00:00Z",
+    "opponentName": "Gallatin",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Away"
+    },
+    "location": "700 Dan P. Herron Dr. Gallatin, TN 37066",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": 11,
+    "opponentScore": 8,
+    "winLose": "Win"
+  },
+  {
+    "gameDate": "2026-06-23T23:00:00Z",
+    "opponentName": "Beech",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "Home"
+    },
+    "location": "1015 Josephine St. Springfield, TN 37172",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": 4,
+    "opponentScore": 6,
+    "winLose": "Lose"
+  },
+  {
+    "gameDate": "2026-06-27T00:00:00Z",
+    "opponentName": "Greenbrier",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Away"
+    },
+    "location": "126 Cuniff Dr. Greenbrier, TN 37073",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": 9,
+    "opponentScore": 5,
+    "winLose": "Win"
+  },
+  {
+    "gameDate": "2026-07-01T23:00:00Z",
+    "opponentName": "Rossview",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "Home"
+    },
+    "location": "1015 Josephine St. Springfield, TN 37172",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": 7,
+    "opponentScore": 2,
+    "winLose": "Win"
+  },
+  {
+    "gameDate": "2026-07-06T00:00:00Z",
+    "opponentName": "Station Camp",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Away"
+    },
+    "location": "1040 Bison Trail, Gallatin, TN 37066",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": 5,
+    "opponentScore": 5,
+    "winLose": "Tie"
+  },
+  {
+    "gameDate": "2026-07-11T23:00:00Z",
+    "opponentName": "Portland",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "Home"
+    },
+    "location": "1015 Josephine St. Springfield, TN 37172",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": 8,
+    "opponentScore": 3,
+    "winLose": "Win"
+  },
+  {
+    "gameDate": "2026-07-18T01:28:00Z",
+    "opponentName": "Hendersonville",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "Home"
+    },
+    "location": "1015 Josephine St.",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": null,
+    "opponentScore": null,
+    "winLose": "TBD"
+  },
+  {
+    "gameDate": "2026-07-22T23:00:00Z",
+    "opponentName": "White House",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Away"
+    },
+    "location": "508 Tyree Springs Rd. White House, TN 37188",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": null,
+    "opponentScore": null,
+    "winLose": "TBD"
+  },
+  {
+    "gameDate": "2026-07-27T23:00:00Z",
+    "opponentName": "Clarksville",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "Home"
+    },
+    "location": "1015 Josephine St. Springfield, TN 37172",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": null,
+    "opponentScore": null,
+    "winLose": "TBD"
+  },
+  {
+    "gameDate": "2026-08-01T00:00:00Z",
+    "opponentName": "Lebanon",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Away"
+    },
+    "location": "500 Blue Devil Blvd. Lebanon, TN 37087",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": null,
+    "opponentScore": null,
+    "winLose": "TBD"
+  }
+]
