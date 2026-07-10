@@ -1,1 +1,182 @@
-[{"gameDate":"2026-07-14T00:00:00Z","opponentName":"Murfreesboro","homeAway":{"@odata.type":"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference","Id":1,"Value":"Away"},"location":"782 Murfreesboro Dr. Smyrna, TN 37172","gameType":{"@odata.type":"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference","Id":3,"Value":"Regional Tournament"},"springfieldScore":null,"opponentScore":null,"winLose":"TBD"}]
+[
+  {
+    "gameDate": "2026-06-15T00:00:00Z",
+    "opponentName": "La Vergne",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "Home"
+    },
+    "location": "800 MS Couts Blvd. Springfield, TN 37172",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": 6,
+    "opponentScore": 4,
+    "winLose": "Win"
+  },
+  {
+    "gameDate": "2026-06-18T00:00:00Z",
+    "opponentName": "Wilson Central",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Away"
+    },
+    "location": "419 Wildcat Way, Lebanon, TN 37090",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": 2,
+    "opponentScore": 5,
+    "winLose": "Lose"
+  },
+  {
+    "gameDate": "2026-06-22T00:00:00Z",
+    "opponentName": "Rossview",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "Home"
+    },
+    "location": "800 MS Couts Blvd. Springfield, TN 37172",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": 8,
+    "opponentScore": 1,
+    "winLose": "Win"
+  },
+  {
+    "gameDate": "2026-06-26T00:00:00Z",
+    "opponentName": "Clarksville",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Away"
+    },
+    "location": "151 Richview Rd. Clarksville, TN 37043",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Regular Season"
+    },
+    "springfieldScore": 3,
+    "opponentScore": 4,
+    "winLose": "Lose"
+  },
+  {
+    "gameDate": "2026-07-01T00:00:00Z",
+    "opponentName": "Greenbrier",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "Home"
+    },
+    "location": "800 MS Couts Blvd. Springfield, TN 37172",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 2,
+      "Value": "District Tournament"
+    },
+    "springfieldScore": 5,
+    "opponentScore": 2,
+    "winLose": "Win"
+  },
+  {
+    "gameDate": "2026-07-08T00:00:00Z",
+    "opponentName": "Lebanon",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Away"
+    },
+    "location": "500 Blue Devil Blvd. Lebanon, TN 37087",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 2,
+      "Value": "District Tournament"
+    },
+    "springfieldScore": 7,
+    "opponentScore": 3,
+    "winLose": "Win"
+  },
+  {
+    "gameDate": "2026-07-14T00:00:00Z",
+    "opponentName": "Murfreesboro",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Away"
+    },
+    "location": "782 Murfreesboro Dr. Smyrna, TN 37172",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 3,
+      "Value": "Regional Tournament"
+    },
+    "springfieldScore": null,
+    "opponentScore": null,
+    "winLose": "TBD"
+  },
+  {
+    "gameDate": "2026-07-18T00:00:00Z",
+    "opponentName": "Siegel",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "Home"
+    },
+    "location": "800 MS Couts Blvd. Springfield, TN 37172",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 3,
+      "Value": "Regional Tournament"
+    },
+    "springfieldScore": null,
+    "opponentScore": null,
+    "winLose": "TBD"
+  },
+  {
+    "gameDate": "2026-07-23T00:00:00Z",
+    "opponentName": "Oakland",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Away"
+    },
+    "location": "2225 Patriot Dr. Murfreesboro, TN 37130",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 4,
+      "Value": "Sectional"
+    },
+    "springfieldScore": null,
+    "opponentScore": null,
+    "winLose": "TBD"
+  },
+  {
+    "gameDate": "2026-07-28T00:00:00Z",
+    "opponentName": "Blackman",
+    "homeAway": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "Home"
+    },
+    "location": "800 MS Couts Blvd. Springfield, TN 37172",
+    "gameType": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 5,
+      "Value": "State Tournament"
+    },
+    "springfieldScore": null,
+    "opponentScore": null,
+    "winLose": "TBD"
+  }
+]
